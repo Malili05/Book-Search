@@ -27,7 +27,7 @@ const SignupForm = () => {
 			event.stopPropagation();
 		}
 
-		// setValidated(true);
+		setValidated(true);
 
 		try {
 			const { data } = await addUser({
