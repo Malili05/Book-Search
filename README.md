@@ -23,4 +23,7 @@ N/A
 
 ## License
 - MIT
-- [Link to MIT](https://www.google.com/search?q=MIT+license) 
+- [Link to MIT](https://www.google.com/search?q=MIT+license)
+## Screenshots
+![image](https://github.com/Malili05/Book-Search/assets/141981157/b996b366-e4ca-4111-82ca-d39a9ac473bd)
+
